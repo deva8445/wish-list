@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 13:21:52</sys_created_on>
+        <sys_id>ad15dc90c356e210429f3eec0501318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_wish_item.userNew</sys_name>
+        <sys_package display_value="Wish List" source="fb80105cc316e210429f3eec05013101">fb80105cc316e210429f3eec05013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">fb80105cc316e210429f3eec05013101</sys_scope>
+        <sys_security_acl display_value="u_wish_item">2d15dc90c356e210429f3eec05013185</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ad15dc90c356e210429f3eec0501318b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 13:21:52</sys_updated_on>
+        <sys_user_role display_value="userNew" name="userNew">d3b0d898c316e210429f3eec05013191</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
