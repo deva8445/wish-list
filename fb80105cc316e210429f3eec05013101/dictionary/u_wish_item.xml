@@ -2,6 +2,7 @@
     <element db_object_id="28159c90c356e210429f3eec05013161" label="Wish Item" max_length="40" name="u_wish_item" type="collection">
         <element attributes="edge_encryption_enabled=true" display="true" label="Item" max_length="40" name="u_item" type="string"/>
         <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Display name" max_length="300" name="u_display_name" read_only="true" type="string"/>
         <element label="URL" max_length="1024" name="u_url" type="url"/>
         <element attributes="encode_utf8=false" label="Requester" max_length="32" name="u_requester" reference="sys_user" type="reference"/>
         <index name="index">
